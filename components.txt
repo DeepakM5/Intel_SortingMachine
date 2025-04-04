@@ -1,0 +1,13 @@
+Arduino Uno
+Stepper Motor
+Digital Pin Arduino
+Inductive Sensor
+Ultrasonic Sensor
+Moisture Sensor
+IR Sensor
+Servo Motor
+Buzzer
+Shaft Adaptor
+Nuts and Bolts
+Battery and Holder
+Frames and PVC Pipes
